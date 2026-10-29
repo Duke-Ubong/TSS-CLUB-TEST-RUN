@@ -1,0 +1,8 @@
+{
+  "name": "MapMind AI - Interactive Maps Chatbot",
+  "description": "Interactive map-based chatbot using real-time Google Maps data, search grounding, and Gemini 3.8 Flash to explore places, routes, and location insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
